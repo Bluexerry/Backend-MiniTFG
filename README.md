@@ -1,2 +1,12 @@
-# Backend-MiniTFG
-Backend del proyecto de Israel
+# Nombre del Proyecto
+
+## Descripción
+
+Una breve descripción del proyecto.
+
+## Instalación
+
+Clona el repositorio e instala las dependencias:
+
+```bash
+npm install
