@@ -1,0 +1,6 @@
+1.2.4 Servicios
+Los servicios son las partes del códgio donde la aplicación actúa de cliente. Se trata de user servicios
+externos y adaptar la respuesta para el uso de la aplicación.
+
+• Ejemplo de uso: Peticiones a una base de datos, peticiones a un servicio SMTP (correo elec-
+trónico), etc ...

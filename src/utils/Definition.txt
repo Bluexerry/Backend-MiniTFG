@@ -1,0 +1,8 @@
+1.2.6 Utils
+Es el lugar donde un código de apoyo (alguna transformación de datos, constantes, etc) que no tiene
+cabida en otro lugar, y se define a parte para ser global y reutilizada.
+• helpers Todo algoritmo genérico, no atado al funcionamiento particular de la aplicación. Han
+de ser funciones puras y con un algoritmo genérico, no se debe particularizar la salida para una
+operación concreta.
+• Ejemplo de uso: Un sistema de logger, funciones de manipulación de datos (objetos, array, ... ),
+alacenamiento en memoria, constantes, etc.

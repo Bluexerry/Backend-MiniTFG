@@ -1,0 +1,3 @@
+1.2.5 Modelos
+Cuando se trabaja con una base de datos, hay que definir cuál es el modelo de datos que lleva cada
+una de las tablas o colecciones con las que se va a trabajar. Este es el lugar indicado para ello.

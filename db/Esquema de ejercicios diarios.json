@@ -1,0 +1,62 @@
+{
+    "day": "Martes",
+    "focus": "Full Body + Core & Cardio",
+    "description": "Sesión con 6 ejercicios principales, 2 ejercicios de core y 1 de cardio, en la que se definen series, repeticiones y tiempos de descanso para cada ejercicio de forma particular.",
+    "exercises": [
+        {
+            "exerciseId": "pecho1ref",
+            "sets": 4,
+            "repetitions": 8,
+            "restTime": 90
+        },
+        {
+            "exerciseId": "espalda2",
+            "sets": 4,
+            "repetitions": 8,
+            "restTime": 90
+        },
+        {
+            "exerciseId": "tren3",
+            "sets": 4,
+            "repetitions": 10,
+            "restTime": 90
+        },
+        {
+            "exerciseId": "hombro2",
+            "sets": 3,
+            "repetitions": 10,
+            "restTime": 90
+        },
+        {
+            "exerciseId": "triceps2",
+            "sets": 3,
+            "repetitions": 12,
+            "restTime": 75
+        },
+        {
+            "exerciseId": "biceps2",
+            "sets": 3,
+            "repetitions": 12,
+            "restTime": 75
+        },
+        {
+            "exerciseId": "core1",
+            "sets": 3,
+            "repetitions": 15,
+            "restTime": 60
+        },
+        {
+            "exerciseId": "core2",
+            "sets": 3,
+            "repetitions": 15,
+            "restTime": 60
+        },
+        {
+            "exerciseId": "cardio1",
+            "sets": 1,
+            "repetitions": 10,
+            "restTime": 0,
+            "note": "Duración en minutos a intensidad suave"
+        }
+    ]
+}

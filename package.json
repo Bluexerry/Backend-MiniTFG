@@ -1,9 +1,10 @@
 {
-  "name": "16",
+  "name": "backend_minitfg",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,11 @@
     "globals": "^15.12.0"
   },
   "dependencies": {
-    "16": "file:"
+    "16": "file:",
+    "backend_minitfg": "file:",
+    "Backend-MiniTFG": "file:",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0"
   }
 }

@@ -1,0 +1,17 @@
+1.4 Ficheros en raíz
+1.4.1 ENV
+El fichero .env nos permite definir variables de entorno para la ejecución, a través de las cuales
+especificar los datos sensibles que no queremos que estén almacenados en código, y que pueden
+cambiar con el tiempo o dependiendo del entorno de ejecución que nos encontremos.
+Nota: El fichero .env ha de ser añadido al .gitignore para proteger los datos sensibles y no
+exponerlos por error.
+Ya que no le hacemos un seguimiento, para tener una copia del .env es común crear un fichero env.
+template con todos los nombres de las variables que se quieren definir, y unos valores por defectos
+para su ejecución en local, siempre asegurando que los valores proporcionados no sean los reales del
+entorno de producción.
+
+1.4.2 Readme.md
+El fichero de documentación escrito en Markdown
+
+1.4.3 Package.json
+El fichero de configuración e información del proyecto NPM.

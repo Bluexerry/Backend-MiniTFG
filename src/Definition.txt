@@ -1,0 +1,9 @@
+1.2 SRC (Source)
+Es el contenido del código.
+Existen 3 ficheros en raiz:
+• index.js Entrada de la ejecución de la aplicación. Importa la configuración y la aplicación en sí
+misma para arrancar el servidor. Se usa para separar la ejecución de la creación de la aplicación
+y así poder recoger esta sin necesidad de arrancarla (de cara al uso de los test).
+• app.js Lanza la carga inicial (loaders) preparando la aplicación para ser arrancada. Exporta el
+objeto aplicación para que pueda ser usado con los test.
+• config.js Centraliza la configuración inicial de toda la aplicación.

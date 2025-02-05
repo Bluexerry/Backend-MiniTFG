@@ -1,0 +1,4 @@
+1.2.1 Loaders
+Módulo de carga de servicios. Aquí va todo lo que haya de ser ejecutado una vez en el arranque del
+servidor y no se vuelva a ejecutar.
+• Ejemplo de uso: Conexión con una base de datos

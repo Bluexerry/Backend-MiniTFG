@@ -1,0 +1,3 @@
+1.2.3 Controladores
+Los controladores son el cerebro de la aplicación, donde se gestiona y maneja todo el algoritmo y
+secuencia de instrucciones que conlleva operar la petición y devolver una respuesta.

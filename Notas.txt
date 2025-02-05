@@ -1,0 +1,6 @@
+Cuando ejecutas "node src/index.js", el directorio de 
+trabajo es la raíz del proyecto, lo que permite que dotenv 
+cargue correctamente el archivo .env (que también está en la raíz). 
+Si ejecutas "node index.js", el proceso se inicia desde otro 
+lugar y las rutas relativas pueden no resolver el .env, 
+impidiendo que se carguen las variables de entorno correctamente.

@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Press de banca",
+    "description": "Ejercicio básico para trabajar pectorales.",
+    "bodyPart": "pecho",
+    "difficulty": "medio",
+    "equipment": "Banca y barra"
+  },
+  {
+    "name": "Press inclinado con mancuernas",
+    "description": "Enfocado en la parte superior de los pectorales.",
+    "bodyPart": "pecho",
+    "difficulty": "medio",
+    "equipment": "Banca inclinada y mancuernas"
+  },
+  {
+    "name": "Aperturas con mancuernas",
+    "description": "Ejercicio para expandir y definir el pecho.",
+    "bodyPart": "pecho",
+    "difficulty": "fácil",
+    "equipment": "Banca y mancuernas"
+  },
+  {
+    "name": "Press declinado",
+    "description": "Dirigido a la parte inferior del pecho.",
+    "bodyPart": "pecho",
+    "difficulty": "medio",
+    "equipment": "Banca declinada y barra"
+  },
+  {
+    "name": "Flexiones de pecho",
+    "description": "Ejercicio de peso corporal para pectorales y tríceps.",
+    "bodyPart": "pecho",
+    "difficulty": "fácil",
+    "equipment": "Ninguno"
+  },
+  {
+    "name": "Press en máquina",
+    "description": "Ejercicio guiado para aislar el pecho.",
+    "bodyPart": "pecho",
+    "difficulty": "fácil",
+    "equipment": "Máquina de press"
+  },
+  {
+    "name": "Cruce de cables",
+    "description": "Aísla la zona media del pecho.",
+    "bodyPart": "pecho",
+    "difficulty": "medio",
+    "equipment": "Equipo de cables"
+  },
+  {
+    "name": "Pullover con mancuernas",
+    "description": "Complementa el trabajo de pectorales y dorsales.",
+    "bodyPart": "pecho",
+    "difficulty": "medio",
+    "equipment": "Mancuerna y banca"
+  },
+  {
+    "name": "Fondos en paralelas",
+    "description": "Peso corporal para pectorales y tríceps.",
+    "bodyPart": "pecho",
+    "difficulty": "avanzado",
+    "equipment": "Paralelas"
+  },
+  {
+    "name": "Press banca agarre cerrado",
+    "description": "Enfocado en pectorales y tríceps con agarre estrecho.",
+    "bodyPart": "pecho",
+    "difficulty": "medio",
+    "equipment": "Banca y barra"
+  },
+  {
+    "name": "Dominadas",
+    "description": "Ejercicio de peso corporal para trabajar la espalda alta.",
+    "bodyPart": "espalda",
+    "difficulty": "avanzado",
+    "equipment": "Barra fija"
+  },
+  {
+    "name": "Remo con barra",
+    "description": "Ejercicio libre para trabajar la espalda media.",
+    "bodyPart": "espalda",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Remo con mancuerna",
+    "description": "Trabajo unilateral para equilibrar la espalda.",
+    "bodyPart": "espalda",
+    "difficulty": "medio",
+    "equipment": "Mancuerna y banca"
+  },
+  {
+    "name": "Peso muerto",
+    "description": "Ejercicio compuesto que involucra la espalda baja.",
+    "bodyPart": "espalda",
+    "difficulty": "avanzado",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Jalón al pecho",
+    "description": "Aísla la espalda alta en máquina.",
+    "bodyPart": "espalda",
+    "difficulty": "fácil",
+    "equipment": "Máquina de jalón"
+  },
+  {
+    "name": "Remo en máquina",
+    "description": "Movimiento guiado para la espalda.",
+    "bodyPart": "espalda",
+    "difficulty": "fácil",
+    "equipment": "Máquina de remo"
+  },
+  {
+    "name": "Pullover en máquina",
+    "description": "Enfocado en la parte superior de la espalda.",
+    "bodyPart": "espalda",
+    "difficulty": "medio",
+    "equipment": "Máquina de pullover"
+  },
+  {
+    "name": "Remo con cable",
+    "description": "Resistencia constante para trabajar la espalda.",
+    "bodyPart": "espalda",
+    "difficulty": "medio",
+    "equipment": "Cable y polea"
+  },
+  {
+    "name": "Face pull",
+    "description": "Mejora la postura y fortalece la parte alta de la espalda.",
+    "bodyPart": "espalda",
+    "difficulty": "medio",
+    "equipment": "Cable y cuerda"
+  },
+  {
+    "name": "Peso muerto piernas rígidas",
+    "description": "Enfocado en la espalda baja y cadena posterior.",
+    "bodyPart": "espalda",
+    "difficulty": "avanzado",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Sentadilla",
+    "description": "Ejercicio básico para piernas y glúteos.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Sentadilla frontal",
+    "description": "Enfatiza los cuádriceps.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Prensa de piernas",
+    "description": "Aísla cuádriceps y glúteos.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Máquina de prensa"
+  },
+  {
+    "name": "Peso muerto rumano",
+    "description": "Trabaja isquiotibiales y glúteos.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Zancadas",
+    "description": "Ejercicio unilateral para equilibrar piernas.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Mancuernas"
+  },
+  {
+    "name": "Elevación de talones",
+    "description": "Desarrolla la fuerza en gemelos.",
+    "bodyPart": "tren inferior",
+    "difficulty": "fácil",
+    "equipment": "Máquina para gemelos o peso corporal"
+  },
+  {
+    "name": "Curl de piernas",
+    "description": "Aísla los isquiotibiales.",
+    "bodyPart": "tren inferior",
+    "difficulty": "fácil",
+    "equipment": "Máquina de curl"
+  },
+  {
+    "name": "Extensión de piernas",
+    "description": "Ejercicio para cuádriceps aislados.",
+    "bodyPart": "tren inferior",
+    "difficulty": "fácil",
+    "equipment": "Máquina de extensión"
+  },
+  {
+    "name": "Peso muerto sumo",
+    "description": "Variante que trabaja aductores y glúteos.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Sentadilla búlgara",
+    "description": "Ejercicio unilateral para piernas y glúteos.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Banca y mancuernas"
+  },
+  {
+    "name": "Step-ups",
+    "description": "Subir a un banco para trabajar cuádriceps y glúteos.",
+    "bodyPart": "tren inferior",
+    "difficulty": "fácil",
+    "equipment": "Banco y mancuernas"
+  },
+  {
+    "name": "Hip thrust",
+    "description": "Ejercicio potente para glúteos y cadena posterior.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Banca y barra"
+  },
+  {
+    "name": "Abducción de cadera",
+    "description": "Trabaja abductores y estabilizadores.",
+    "bodyPart": "tren inferior",
+    "difficulty": "fácil",
+    "equipment": "Máquina o banda elástica"
+  },
+  {
+    "name": "Aducción de cadera",
+    "description": "Enfocado en la parte interna de los muslos.",
+    "bodyPart": "tren inferior",
+    "difficulty": "fácil",
+    "equipment": "Máquina o banda elástica"
+  },
+  {
+    "name": "Sentadilla con salto",
+    "description": "Variación pliométrica para explosividad.",
+    "bodyPart": "tren inferior",
+    "difficulty": "avanzado",
+    "equipment": "Ninguno"
+  },
+  {
+    "name": "Box jump",
+    "description": "Salto a caja para trabajar potencia en piernas.",
+    "bodyPart": "tren inferior",
+    "difficulty": "avanzado",
+    "equipment": "Caja de salto"
+  },
+  {
+    "name": "Good mornings",
+    "description": "Fortalece la cadena posterior.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Lunges laterales",
+    "description": "Ejercicio para músculos estabilizadores en piernas.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Mancuernas"
+  },
+  {
+    "name": "Sentadilla con barra",
+    "description": "Ejercicio compuesto para fuerza y masa muscular.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Estocadas caminando",
+    "description": "Ejercicio dinámico para mejorar la resistencia en piernas.",
+    "bodyPart": "tren inferior",
+    "difficulty": "medio",
+    "equipment": "Mancuernas"
+  },
+  {
+    "name": "Elevaciones laterales",
+    "description": "Aísla el deltoides lateral.",
+    "bodyPart": "hombro",
+    "difficulty": "fácil",
+    "equipment": "Mancuernas"
+  },
+  {
+    "name": "Press militar",
+    "description": "Ejercicio compuesto para deltoides frontales y laterales.",
+    "bodyPart": "hombro",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Elevaciones frontales",
+    "description": "Enfocado en el deltoides frontal.",
+    "bodyPart": "hombro",
+    "difficulty": "fácil",
+    "equipment": "Mancuernas"
+  },
+  {
+    "name": "Pájaros",
+    "description": "Ejercicio para deltoides posteriores.",
+    "bodyPart": "hombro",
+    "difficulty": "medio",
+    "equipment": "Mancuernas y banca inclinada"
+  },
+  {
+    "name": "Press Arnold",
+    "description": "Variante completa para trabajar los hombros.",
+    "bodyPart": "hombro",
+    "difficulty": "medio",
+    "equipment": "Mancuernas"
+  },
+  {
+    "name": "Fondos",
+    "description": "Ejercicio de peso corporal para tríceps.",
+    "bodyPart": "triceps",
+    "difficulty": "medio",
+    "equipment": "Paralelas o banco"
+  },
+  {
+    "name": "Extensión en polea",
+    "description": "Aísla el tríceps con resistencia constante.",
+    "bodyPart": "triceps",
+    "difficulty": "fácil",
+    "equipment": "Polea alta y cuerda"
+  },
+  {
+    "name": "Press francés",
+    "description": "Variante para aislar el tríceps.",
+    "bodyPart": "triceps",
+    "difficulty": "medio",
+    "equipment": "Mancuernas o barra EZ"
+  },
+  {
+    "name": "Patada de tríceps",
+    "description": "Ejercicio unilateral para el tríceps.",
+    "bodyPart": "triceps",
+    "difficulty": "fácil",
+    "equipment": "Mancuerna"
+  },
+  {
+    "name": "Extensión en banco",
+    "description": "Aísla el tríceps de forma controlada.",
+    "bodyPart": "triceps",
+    "difficulty": "medio",
+    "equipment": "Banco y barra EZ"
+  },
+  {
+    "name": "Curl con barra",
+    "description": "Ejercicio básico para desarrollar bíceps.",
+    "bodyPart": "biceps",
+    "difficulty": "medio",
+    "equipment": "Barra y discos"
+  },
+  {
+    "name": "Curl con mancuernas",
+    "description": "Permite trabajar cada brazo de forma independiente.",
+    "bodyPart": "biceps",
+    "difficulty": "medio",
+    "equipment": "Mancuernas"
+  },
+  {
+    "name": "Curl concentrado",
+    "description": "Aísla el bíceps para maximizar la contracción.",
+    "bodyPart": "biceps",
+    "difficulty": "medio",
+    "equipment": "Mancuerna y banca"
+  },
+  {
+    "name": "Curl martillo",
+    "description": "Trabaja tanto bíceps como braquiorradial.",
+    "bodyPart": "biceps",
+    "difficulty": "medio",
+    "equipment": "Mancuernas"
+  },
+  {
+    "name": "Curl inverso",
+    "description": "Enfocado en la parte inferior del bíceps y braquiorradial.",
+    "bodyPart": "biceps",
+    "difficulty": "medio",
+    "equipment": "Barra o mancuerna"
+  },
+  {
+    "name": "Crunch abdominal",
+    "description": "Ejercicio básico para el abdomen.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Crunch inverso",
+    "description": "Enfocado en la parte inferior del abdomen.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Plancha",
+    "description": "Ejercicio isométrico para estabilizar el core.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Plancha lateral",
+    "description": "Trabajo isométrico para los oblicuos.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Dead Bug",
+    "description": "Ejercicio para mejorar la coordinación y estabilidad.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Bird Dog",
+    "description": "Mejora el equilibrio y fortalece la zona lumbar.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Bicycle Crunch",
+    "description": "Abdominales en movimiento a ritmo controlado.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Elevación de piernas",
+    "description": "Trabaja el abdomen inferior de forma controlada.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Puente de glúteos",
+    "description": "Activa el core y alivia la zona lumbar.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Abdominales en V",
+    "description": "Versión modificada para trabajar el core sin sobrecargar.",
+    "bodyPart": "core",
+    "difficulty": "fácil",
+    "equipment": "Esterilla"
+  },
+  {
+    "name": "Caminata en cinta",
+    "description": "Caminata ligera para recuperación post entrenamiento.",
+    "bodyPart": "cardio",
+    "difficulty": "fácil",
+    "equipment": "Cinta de correr"
+  },
+  {
+    "name": "Bicicleta estática",
+    "description": "Pedaleo a ritmo moderado para enfriar el cuerpo.",
+    "bodyPart": "cardio",
+    "difficulty": "fácil",
+    "equipment": "Bicicleta estática"
+  },
+  {
+    "name": "Elíptica",
+    "description": "Ejercicio cardiovascular de bajo impacto.",
+    "bodyPart": "cardio",
+    "difficulty": "fácil",
+    "equipment": "Máquina elíptica"
+  },
+  {
+    "name": "Remo suave",
+    "description": "Sesión de remo a baja intensidad para recuperación.",
+    "bodyPart": "cardio",
+    "difficulty": "fácil",
+    "equipment": "Máquina de remo"
+  },
+  {
+    "name": "Caminata al aire libre",
+    "description": "Paseo relajado al exterior para enfriar el cuerpo.",
+    "bodyPart": "cardio",
+    "difficulty": "fácil",
+    "equipment": "Ninguno"
+  }
+]

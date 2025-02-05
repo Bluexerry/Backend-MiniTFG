@@ -1,0 +1,7 @@
+1.3 Test
+Como ya se ha visto, la carpeta test ha de ser una copia en estructura y ficheros del proyecto en sí. Esta
+granularidad nos permite realizar los test fichero a fichero evaluando el funcionamiento correcto en
+pequeñas partes y etapas.
+Hay 2 tipos de test que podemos dividir en 2 carpetas distintas:
+• unit Test unitarios como los conocidos con Jest o Ava
+• e2e Test de integración o funcionales, usados para probar la aplicación como usuario final.
