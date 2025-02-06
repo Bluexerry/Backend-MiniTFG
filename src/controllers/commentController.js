@@ -1,5 +1,6 @@
+// Backend-MiniTFG/src/controllers/commentController.js
 import morgan from 'morgan';
-import { createComment, getCommentsByUsername, deleteCommentById } from '../services/commentService.js';
+import { createComment, getCommentsByUsername, getCommentsByQuery, deleteCommentById } from '../services/commentService.js';
 
 export async function createCommentController(req, res) {
   const logRequest = morgan('dev');
@@ -20,6 +21,20 @@ export async function getCommentsByUsernameController(req, res) {
     try {
       const { username } = req.params;
       const comments = await getCommentsByUsername(username);
+      res.json(comments);
+    } catch (error) {
+      res.status(500).json({ error: error.message });
+    }
+  });
+}
+
+export async function getAllCommentsController(req, res) {
+  const logRequest = morgan('dev');
+  logRequest(req, res, async () => {
+    try {
+      // Si se envían filtros en la query, se usan; si no, se devolverán todos los comentarios.
+      const filter = req.query;
+      const comments = await getCommentsByQuery(filter);
       res.json(comments);
     } catch (error) {
       res.status(500).json({ error: error.message });

@@ -9,6 +9,6 @@ export default class Comment {
         this.comment = comment;
         // Asigna la fecha actual si no se envía
         const now = date ? new Date(date) : new Date();
-        this.date = now.toTimeString().split(" ")[0]; // Formato: HH:MM:SS
+        this.date = now.toISOString();
     }
 }

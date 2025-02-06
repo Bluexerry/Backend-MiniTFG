@@ -1,0 +1,29 @@
+2025-02-05T15:39:24.948Z [INFO]: Logger inicializado correctamente.
+2025-02-05T15:39:24.955Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T15:41:03.785Z [INFO]: Logger inicializado correctamente.
+2025-02-05T15:41:03.793Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T15:43:38.178Z [INFO]: Logger inicializado correctamente.
+2025-02-05T15:43:38.685Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T15:45:40.965Z [INFO]: Logger inicializado correctamente.
+2025-02-05T15:45:41.448Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T15:47:59.217Z [INFO]: Logger inicializado correctamente.
+2025-02-05T15:47:59.689Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T15:51:09.812Z [INFO]: Logger inicializado correctamente.
+2025-02-05T15:51:10.316Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T15:59:39.714Z [INFO]: Logger inicializado correctamente.
+2025-02-05T15:59:40.217Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T15:59:54.709Z [INFO]: Logger inicializado correctamente.
+2025-02-05T15:59:55.226Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T16:29:22.306Z [INFO]: Logger inicializado correctamente.
+2025-02-05T16:29:22.736Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T16:32:03.059Z [INFO]: Logger inicializado correctamente.
+2025-02-05T16:32:03.548Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-05T16:41:14.225Z [ERROR]: 400 - Expected double-quoted property name in JSON at position 226 - POST /daily_routine
+2025-02-06T09:49:37.940Z [INFO]: Logger inicializado correctamente.
+2025-02-06T09:49:38.555Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-06T10:11:41.912Z [INFO]: Logger inicializado correctamente.
+2025-02-06T10:11:42.397Z [INFO]: Servidor escuchando en http://localhost:3000
+2025-02-06T10:19:38.711Z [ERROR]: 400 - Expected property name or '}' in JSON at position 1 - POST /daily_routine
+2025-02-06T10:21:12.258Z [ERROR]: 400 - Expected property name or '}' in JSON at position 2 - POST /daily_routine
+2025-02-06T10:23:35.329Z [ERROR]: 400 - Expected property name or '}' in JSON at position 2 - POST /daily_routine
+2025-02-06T10:24:18.263Z [ERROR]: 400 - Expected property name or '}' in JSON at position 2 - POST /daily_routine
