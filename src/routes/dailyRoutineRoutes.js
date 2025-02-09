@@ -17,16 +17,16 @@ export default router;
 // Ejemplos de uso
 
 // Obtener todas las rutinas
-// http://localhost:3000/daily_routine
+// https://backend-minitfg.onrender.com/daily_routine
 
 // Obtener rutinas filtradas por dia
-// http://localhost:3000/daily_routine?day=Lunes
+// https://backend-minitfg.onrender.com/daily_routine?day=Lunes
 
 // Obtener rutinas filtradas por focus
-// http://localhost:3000/daily_routine?focus=FullBody
+// https://backend-minitfg.onrender.com/daily_routine?focus=FullBody
 
 // Crear una nueva rutina
-/* curl -X POST "http://localhost:3000/daily_routine" \
+/* curl -X POST "https://backend-minitfg.onrender.com/daily_routine" \
   -H "Content-Type: application/json" \
   -d '{
         "day": "Miércoles",
@@ -46,4 +46,4 @@ export default router;
       }'*/
 
 // Eliminar una rutina por su id
-// curl -X DELETE "http://localhost:3000/daily_routine/ (id de rutina)
+// curl -X DELETE "https://backend-minitfg.onrender.com/daily_routine/ (id de rutina)

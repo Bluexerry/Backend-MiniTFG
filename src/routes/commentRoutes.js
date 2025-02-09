@@ -21,16 +21,16 @@ export default router;
 // Ejemplos de uso
 
 // Obtener todos los comentarios
-// http://localhost:3000/comments
+// https://backend-minitfg.onrender.com/comments
 
 // Obtener comentarios filtrados por routineId (p.ej., “rutina1”):
-// http://localhost:3000/comments?routineId=rutina1
+// https://backend-minitfg.onrender.com/comments?routineId=rutina1
 
 // Obtener comentarios filtrados por username (p.ej., “usuario_ejemplo”):
-// http://localhost:3000/comments?username=usuario_ejemplo
+// https://backend-minitfg.onrender.com/comments?username=usuario_ejemplo
 
 // Crear un nuevo comentario
-/*curl -X POST "http://localhost:3000/comments" \
+/*curl -X POST "https://backend-minitfg.onrender.com/comments" \
      -H "Content-Type: application/json" \
      -d '{
        "routineId": "rutina1",
@@ -39,4 +39,4 @@ export default router;
      }' */
 
 // Eliminar un comentario por su id
-// curl -X DELETE http://localhost:3000/comments/ (id de comentario)
+// curl -X DELETE https://backend-minitfg.onrender.com/comments/ (id de comentario)

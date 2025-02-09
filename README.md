@@ -1,4 +1,4 @@
-# Descripción Extendida del Proyecto
+# Backend-MiniTFG
 
 Este proyecto es una aplicación de backend para la gestión de entrenamientos y rutinas, desarrollada con Node.js, Express y MongoDB. Su objetivo es ofrecer una API RESTful que permita:
 

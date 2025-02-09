@@ -13,16 +13,16 @@ export default router;
 // Ejemplos de uso
 
 // Obtener todos los ejercicios
-// http://localhost:3000/exercises
+// https://backend-minitfg.onrender.com/exercises
 
 // Filtrar por bodyPart
-// http://localhost:3000/exercises?bodyPart=pecho
+// https://backend-minitfg.onrender.com/exercises?bodyPart=pecho
 
 // Filtrar por nombre
-// http://localhost:3000/exercises?name=Press%20de%20banca
+// https://backend-minitfg.onrender.com/exercises?name=Press%20de%20banca
 
 //Filtrar por equipment
-// http://localhost:3000/exercises?equipment=Barra
+// https://backend-minitfg.onrender.com/exercises?equipment=Barra
 
 // Combinar filtros
-// http://localhost:3000/exercises?bodyPart=pecho&difficulty=medio
+// https://backend-minitfg.onrender.com/exercises?bodyPart=pecho&difficulty=medio
